@@ -2,3 +2,4 @@ this is a test file. I just want to learn git.
 This is for commit 2.
 Changed for new commit
 this is a change
+this is for bugfix
